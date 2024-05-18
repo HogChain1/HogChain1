@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HogChain1
-- 👀 I’m interested in web3 and DeFi
+- 👀 I’m interested in web3, DeFi, and how to contribute to open source code
 - 🌱 I’m currently learning IT in college and smart contracts in my spare time
 - 💞️ I’m looking to collaborate on smart contracts and web3 development
 - 📫 How to reach me ... surfinbird12@proton.me
